@@ -301,12 +301,9 @@ User question: "${question}"
       >
         <img src="/logo-eg.svg" alt="Company logo" width={32} height={32} />
         <h1 style={{ fontSize: 28, fontWeight: 700, margin: 0 }}>
-          - HealthCare
+          - Clinical SQL Chat
         </h1>
       </div>
-      <h1 style={{ fontSize: 28, fontWeight: 700, margin: 0 }}>
-        Clinical SQL Chat
-      </h1>
       <p style={{ color: "#555", marginBottom: 18 }}>
         Ask a question about your <code>clinical</code> schema. I’ll generate
         safe SQL and run it via Supabase.
