@@ -1,4 +1,4 @@
-RAG Powered Text to SQL, Document Q&A Clinical App
+## RAG Powered Text to SQL, Document Q&A Clinical App
 
 ## Deployed app in Vercel
 
