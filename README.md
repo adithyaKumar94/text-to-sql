@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+RAG Powered Text to SQL, Document Q&A Clinical App
 
 ## Deployed app in Vercel
 
